@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Avengers: Infinity War",
+    "releaseDate": "2018-04-27",
+    "director": "Joe & Anthony Russo",
+    "length": 149
+  },
+  {
+    "title": "Black Panther",
+    "releaseDate": "2018-02-16",
+    "director": "Ryan Coogler",
+    "length": 134
+  },
+  {
+    "title": "Jurassic World: Fallen Kingdom",
+    "releaseDate": "2018-06-22",
+    "director": "J.A. Bayona",
+    "length": 128
+  },
+  {
+    "title": "Incredibles 2",
+    "releaseDate": "2018-06-15",
+    "director": "Brad Bird",
+    "length": 118
+  },
+  {
+    "title": "Venom",
+    "releaseDate": "2018-10-05",
+    "director": "Ruben Fleischer",
+    "length": 112
+  },
+  {
+    "title": "Mission Impossible - Fallout",
+    "releaseDate": "2018-07-27",
+    "director": "Christopher McQuarrie",
+    "length": 147
+  },
+  {
+    "title": "Deadpool 2",
+    "releaseDate": "2018-05-18",
+    "director": "David Leitch",
+    "length": 119
+  },
+  {
+    "title": "Bohemian Rhapsody",
+    "releaseDate": "2018-11-02",
+    "director": "Bryan Singer",
+    "length": 134
+  },
+  {
+    "title": "Ant Man & The Wasp",
+    "releaseDate": "2018-07-06",
+    "director": "Peyton Reed",
+    "length": 118
+  },
+  {
+    "title": "Fantastic Beasts: The Crimes of Grindelwald",
+    "releaseDate": "2018-11-16",
+    "director": "David Yates",
+    "length": 134
+  }
+]
